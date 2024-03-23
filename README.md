@@ -16,4 +16,4 @@
 - Open the project folder
 - Double click on "build.gradle" and open it through IntellIJ IDEA
 - Let the project build successfully
-- Run it
+- Configure TestRunner and run it
